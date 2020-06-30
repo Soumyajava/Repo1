@@ -1,1 +1,2 @@
-# Repo1 is created on 29th june 2020
+Repository name- Repo1
+Branch name-master
